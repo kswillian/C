@@ -63,14 +63,14 @@ namespace primeiroProjeto
 
         public string calcularConceito(float media)
         {
-            if (media > 7.0)
+            if (media >= 7.0)
             {
                 return "Aluno aprovado";
 
             } else if (media > 5)
             {
 
-                return "ALuno em recuparação";
+                return "Aluno em recuperação";
 
             }
 
