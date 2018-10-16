@@ -24,8 +24,7 @@ namespace primeiroProjeto
 
             a.setN2(float.Parse(Console.ReadLine()));
 
-            Console.Write("\n" +
-                          "-|--------------------------------|- \n" +
+            Console.Write("-|--------------------------------|- \n" +
                           " | Nome: {0} \n" +
                           " | Nota1: {1} \n" +
                           " | Nota2: {2} \n" +
@@ -35,7 +34,7 @@ namespace primeiroProjeto
                           "-|--------------------------------|-", 
                           a.getNome(), a.getN1(), 
                           a.getN2(), a.calcularMedia(a.getN1(), 
-                          a.getN2()), a.calcularConceito(a.getMedia()));
+                          a.getN2()), a.calcularConceito());
 
             Console.ReadLine();
 

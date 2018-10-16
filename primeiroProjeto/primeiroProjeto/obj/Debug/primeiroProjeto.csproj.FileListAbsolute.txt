@@ -5,10 +5,9 @@ C:\Users\willian.santos\source\repos\primeiroProjeto\primeiroProjeto\obj\Debug\p
 C:\Users\willian.santos\source\repos\primeiroProjeto\primeiroProjeto\obj\Debug\primeiroProjeto.csproj.CoreCompileInputs.cache
 C:\Users\willian.santos\source\repos\primeiroProjeto\primeiroProjeto\obj\Debug\primeiroProjeto.exe
 C:\Users\willian.santos\source\repos\primeiroProjeto\primeiroProjeto\obj\Debug\primeiroProjeto.pdb
+C:\Users\willian.santos\source\repos\C\primeiroProjeto\primeiroProjeto\obj\Debug\primeiroProjeto.csproj.CoreCompileInputs.cache
 C:\Users\willian.santos\source\repos\C\primeiroProjeto\primeiroProjeto\bin\Debug\primeiroProjeto.exe.config
 C:\Users\willian.santos\source\repos\C\primeiroProjeto\primeiroProjeto\bin\Debug\primeiroProjeto.exe
 C:\Users\willian.santos\source\repos\C\primeiroProjeto\primeiroProjeto\bin\Debug\primeiroProjeto.pdb
-C:\Users\willian.santos\source\repos\C\primeiroProjeto\primeiroProjeto\obj\Debug\primeiroProjeto.csprojAssemblyReference.cache
-C:\Users\willian.santos\source\repos\C\primeiroProjeto\primeiroProjeto\obj\Debug\primeiroProjeto.csproj.CoreCompileInputs.cache
 C:\Users\willian.santos\source\repos\C\primeiroProjeto\primeiroProjeto\obj\Debug\primeiroProjeto.exe
 C:\Users\willian.santos\source\repos\C\primeiroProjeto\primeiroProjeto\obj\Debug\primeiroProjeto.pdb

@@ -61,9 +61,9 @@ namespace primeiroProjeto
             return this.media; 
         }
 
-        public string calcularConceito(float media)
+        public string calcularConceito()
         {
-            if (media >= 7.0)
+            if (this.media >= 7.0)
             {
                 return "Aluno aprovado";
 
