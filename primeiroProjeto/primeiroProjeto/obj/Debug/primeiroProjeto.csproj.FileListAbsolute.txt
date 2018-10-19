@@ -11,3 +11,4 @@ C:\Users\willian.santos\source\repos\C\primeiroProjeto\primeiroProjeto\bin\Debug
 C:\Users\willian.santos\source\repos\C\primeiroProjeto\primeiroProjeto\bin\Debug\primeiroProjeto.pdb
 C:\Users\willian.santos\source\repos\C\primeiroProjeto\primeiroProjeto\obj\Debug\primeiroProjeto.exe
 C:\Users\willian.santos\source\repos\C\primeiroProjeto\primeiroProjeto\obj\Debug\primeiroProjeto.pdb
+C:\Users\willian.santos\source\repos\C\primeiroProjeto\primeiroProjeto\obj\Debug\primeiroProjeto.csprojAssemblyReference.cache

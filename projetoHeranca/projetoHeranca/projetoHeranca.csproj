@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8775E186-78C2-4232-9E3A-E28E0C4925BF}</ProjectGuid>
+    <ProjectGuid>{450F6464-71C8-46D9-B97E-637F739184CD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>primeiroProjeto</RootNamespace>
-    <AssemblyName>primeiroProjeto</AssemblyName>
+    <RootNamespace>projetoHeranca</RootNamespace>
+    <AssemblyName>projetoHeranca</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="model\Aluno.cs" />
+    <Compile Include="model\Pessoa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
