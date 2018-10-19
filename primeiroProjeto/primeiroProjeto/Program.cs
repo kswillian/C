@@ -36,6 +36,7 @@ namespace primeiroProjeto
                           a.getN2(), a.calcularMedia(a.getN1(), 
                           a.getN2()), a.calcularConceito());
 
+
             Console.ReadLine();
 
         }
